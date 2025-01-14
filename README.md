@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="Center">Hi... I am Adolfo Zabala j@zabala</h1>
 
-<img src="./perfil.jpg"  width=400px height=200px>
+<img src="./perfil.jpg"  width=500px height=300px>
 </div>
 <!--
 **ADOLFOZABALA/ADOLFOZABALA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

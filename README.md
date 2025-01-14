@@ -1,6 +1,6 @@
 ## Hi soy Adolfo Zabala j@zabala
 
-<img src="./perfil.jpg"  width=400px height=300px>
+<img src="./perfil.jpg"  width=300px height=300px>
 
 <!--
 **ADOLFOZABALA/ADOLFOZABALA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

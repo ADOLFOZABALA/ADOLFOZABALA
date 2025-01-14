@@ -1,4 +1,4 @@
-## Hi soy Adolfo Zabala j@zabala
+## Hi I am Adolfo Zabala j@zabala
 
 <img src="./perfil.jpg"  width=300px height=200px>
 
